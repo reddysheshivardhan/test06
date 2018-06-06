@@ -1,3 +1,4 @@
-ls
+ls -la
 pwd
-echo " testing is comleted"
+cat /etc/passwd
+echo " this script is develped by sheshi"
